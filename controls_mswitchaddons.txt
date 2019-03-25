@@ -1,3 +1,4 @@
 DIR FHEM/MSwitch
 UPD 2018-11-19_16:37:48 5939 FHEM/MSwitch/MSw_Timer.conf
 UPD 2018-11-19_16:37:48 2526 FHEM/MSwitch/MSw_Rename_ctrl.conf
+UPD 2018-11-19_16:37:48 7822 FHEM/MSwitch/MSw_Fader.conf
