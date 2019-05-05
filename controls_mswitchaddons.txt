@@ -2,4 +2,4 @@ DIR FHEM/MSwitch
 DIR FHEM/MSwitch_Unused
 UPD 2018-11-19_16:37:48 5939 FHEM/MSwitch/MSw_Timer.conf
 UPD 2018-11-19_16:37:48 2526 FHEM/MSwitch/MSw_Rename_ctrl.conf
-MOV 2018-12-19_16:37:48 7828 FHEM/MSwitch/MSw_Fader.conf FHEM/MSwitch_Unused/MSw_Fader.conf
+MOV FHEM/MSwitch/MSw_Fader.conf FHEM/MSwitch_Unused/MSw_Fader.conf
