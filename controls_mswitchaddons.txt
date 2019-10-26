@@ -1,6 +1,6 @@
 DIR FHEM/MSwitch
 DIR FHEM/MSwitch_Unused
-UPD 2018-11-19_16:37:48 2526 FHEM/MSwitch/MSw_Slowdimmer.conf
+UPD 2018-11-19_16:37:48 4547 FHEM/MSwitch/MSw_Slowdimmer.conf
 MOV FHEM/MSwitch/MSw_Fader.conf FHEM/MSwitch_Unused/MSw_Fader.conf
 MOV FHEM/MSwitch/MSw_Fader.conf FHEM/MSwitch_Unused/MSw_Timer.conf
 MOV FHEM/MSwitch/MSw_Fader.conf FHEM/MSwitch_Unused/MSw_Rename_ctrl.conf
